@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e47invz63xxjyl8p6xfrhklm7f4yclbl3mm0jgjdtvl&rid=giphy.gif&ct=g" align="right" width="350" height="">
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=ecf05e47k1ezrlpccejisi88yeptdh1sc0urekvuthd6lv2f&rid=giphy.gif&ct=g" align="right" width="350" height="">
 
 ### Hit there :wave:, I'm Ulaş.
 
