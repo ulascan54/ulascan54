@@ -19,9 +19,8 @@
 <br>
 <hr>
 <br>
+
 ### Reach out to me
-
-
 
 [<img height="22" align="left"  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img height="22" align="left"  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
