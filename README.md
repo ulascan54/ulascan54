@@ -21,11 +21,12 @@
 <br>
 ### Reach out to me
 
-<div style="background-color:white;" width="22" height="25" align="left">
+
+
 [<img height="22" align="left"  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img height="22" align="left"  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
-[<img height="22"  align="left" width="22" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" />][hackerrank]
-</div>
+[<img height="22" align="left" width="22" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" />][hackerrank]
+
 <br>
 
 ### Tech I Use
@@ -50,6 +51,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </details>
 
-[instagram]: https://www.instagram.com/ulascandemirbag/
-[linkedin]: https://www.linkedin.com/in/ula%C5%9F-can-demirba%C4%9F-15528815a/
-[hackerrank]: https://www.hackerrank.com/dashboard
+[instagram]:https://www.instagram.com/ulascandemirbag/
+[linkedin]:https://www.linkedin.com/in/ula%C5%9F-can-demirba%C4%9F-15528815a/
+[hackerrank]:https://www.hackerrank.com/dashboard
