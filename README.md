@@ -22,9 +22,9 @@
 ### Reach out to me
 
 <div style="background-color:white;" width="22" height="25" align="left">
-[<img height="22" align="left"  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />] [linkedin]
-[<img height="22" align="left"  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />] [instagram]
-[<img height="22"  align="left" width="22" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" />] [hackerrank]
+[<img height="22" align="left"  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img height="22" align="left"  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
+[<img height="22"  align="left" width="22" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" />][hackerrank]
 </div>
 <br>
 
