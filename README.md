@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=ecf05e47k1ezrlpccejisi88yeptdh1sc0urekvuthd6lv2f&rid=giphy.gif&ct=g" align="right" width="350" height="">
+<img src="https://giphy.com/gifs/charlie-hunnam-gif-hunt-102h4wsmCG2s12" align="right" width="350" height="">
 
 ### Hit there :wave:, I'm Ulaş.
 
