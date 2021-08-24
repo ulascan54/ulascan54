@@ -16,6 +16,7 @@
   <li>📫 ulascandemirbag@gmail.com</li>
   <li>📫 ulascan.demirbag@std.yeditepe.edu.tr</li>
 </ul>
+
 <br>
 <hr>
 <br>
@@ -36,6 +37,7 @@
 <img width="25" height="25" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img width="25" height="25" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img width="25" height="25" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+
 <br>
 <hr>
 <br>
