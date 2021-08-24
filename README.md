@@ -53,4 +53,4 @@
 
 [instagram]:https://www.instagram.com/ulascandemirbag/
 [linkedin]:https://www.linkedin.com/in/ula%C5%9F-can-demirba%C4%9F-15528815a/
-[hackerrank]:https://www.hackerrank.com/dashboard
+[hackerrank]:https://www.hackerrank.com/ulascandemirbag
