@@ -4,7 +4,7 @@
 
 ## Junior Front-end Developer | Computer Science Student
 
-<font color="aqua">I'am currently studying at Yeditepe University. I love `< code />` </font>
+<font color="aqua">I'am currently studying at Yeditepe University.</font>
 <br>
 
 <hr>
