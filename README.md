@@ -2,7 +2,7 @@
 
 ### Hit there :wave:, I'm Ulaş.
 
-## Junior Front-end Developer | Computer Science Student
+## Software Developer | Computer Science Student
 
 <font color="aqua">I'am currently studying at Yeditepe University.</font>
 <br>
