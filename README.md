@@ -23,7 +23,8 @@
 ### Reach out to me
 
 [<img height="22" align="left"  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[<img height="22" align="left"  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
+[<img height="22" align="left"  width="22" src="https://unpkg.com/simple-icons@v5/icons/reddit.svg" />][reddit]
+[<img height="22" align="left"  width="22" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />][twitter]
 [<img height="22" align="left" width="22" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" />][hackerrank]
 
 <br>
@@ -52,6 +53,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulascan54&layout=compact">
 </details>
 
-[instagram]:https://www.instagram.com/ulascandemirbag/
+[reddit]:https://www.reddit.com/user/ulascan54/
+[twitter]:https://twitter.com/ulascand54
 [linkedin]:https://www.linkedin.com/in/ula%C5%9F-can-demirba%C4%9F-15528815a/
 [hackerrank]:https://www.hackerrank.com/ulascandemirbag
