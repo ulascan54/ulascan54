@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/102h4wsmCG2s12/giphy.gif?cid=ecf05e47sgvdtoei8pyjl1jyzx7wulwypokgjtu6psf4qnl7&rid=giphy.gif&ct=g" align="right" width="350" height="">
 
-### Hit there :wave:, I'm Ulaş.
+### Hit there :wave:, I'm Ulaş Can.
 
 ## Software Developer | Computer Science Student
 
