@@ -4,7 +4,7 @@
 
 ## Software Developer | Computer Science Student
 
-<font color="aqua">I'm currently studying at Yeditepe University.</font>
+<font color="aqua">Yeditepe University</font>
 <br>
 
 <hr>
