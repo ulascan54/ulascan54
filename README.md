@@ -11,7 +11,7 @@
 <br>
 
 <ul>
-  <li>🌱 I’m currently learning English</li>
+  <li>🌱 I’m currently learning Python</li>
   <li>🔭 I'm currently developing myself on Vue.js.</li>
   <li>📫 ulascandemirbag@gmail.com</li>
   <li>📫 ulascan.demirbag@std.yeditepe.edu.tr</li>
