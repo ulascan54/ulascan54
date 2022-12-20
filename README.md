@@ -61,9 +61,19 @@
 [hackerrank]:https://www.hackerrank.com/ulascandemirbag
 
 <br>
+<hr>
+<br>
+
+<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ulascan54&theme=onestar&no-frame=true" alt="ulascan54 Profile Trophies" />
+  </a>
+</div>
 <br>
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
   ![GitHub Snake Light](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake.svg#gh-light-mode-only)
   ![GitHub Snake dark](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-  <br>
+  
+
