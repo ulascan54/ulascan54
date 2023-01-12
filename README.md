@@ -31,15 +31,31 @@
 
 ### Tech I Use
 
-<img width="25" height="25" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-<img width="25" height="25" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<!--<img width="25" height="25" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">-->
-<img width="25" height="25" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img width="25" height="25" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img width="25" height="25" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-<img width="25" height="25" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-
-
+<img align="left" alt="JavaScript" width="26px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Solidity" width="26px" 
+src="https://user-images.githubusercontent.com/64195458/205886935-fea7d8f2-c496-45d4-90a3-18d0927288c2.png" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Metamask" width='47px' 
+src='https://user-images.githubusercontent.com/64195458/205884250-c71b1a24-e040-477c-b7fe-b342a2bf85c5.png' style="padding-right:10px;" />
+style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SASS" width="26px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Gatsby" width="26px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vue" width="25px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" style="padding-right:10px;" />
 
 <br>
 <hr>
