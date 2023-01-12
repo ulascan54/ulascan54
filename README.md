@@ -55,7 +55,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 <img align="left" alt="Git" width="26px" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vue" width="25px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" style="padding-right:10px;" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 
 <br>
 <hr>
