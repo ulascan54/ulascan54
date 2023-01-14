@@ -9,7 +9,7 @@ class Programmer {
 }
 ```
 
-### console.log(" Hit there :wave:, I'm " + fullname).
+### `console.log(" Hit there `:wave:`, I'm " + fullName)`
 
 
 
@@ -71,15 +71,12 @@ src='https://user-images.githubusercontent.com/64195458/205884250-c71b1a24-e040-
 <br>
 <hr>
 <br>
-<details>
-<summary >:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=ulascan54&theme=tokyonight">
-</details>
+### 📊 Github Stats
 
-<details>
-<summary>:bulb: Mosed Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulascan54&layout=compact">
-</details>
+![Stats Overview dark](https://raw.githubusercontent.com/ulascan54/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Stats Overview light](https://raw.githubusercontent.com/ulascan54/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Most Used Languages dark](https://raw.githubusercontent.com/ulascan54/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Most Used Languages light](https://raw.githubusercontent.com/ulascan54/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 [twitter]:https://twitter.com/ulascand54
 [linkedin]:https://www.linkedin.com/in/ulascandemirbag
