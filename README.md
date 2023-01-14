@@ -119,7 +119,7 @@ src='https://user-images.githubusercontent.com/64195458/205884250-c71b1a24-e040-
 <br>
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
-  ![GitHub Snake Light](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+  ![GitHub Snake Light](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg#gh-dark-mode-only)
   
 
