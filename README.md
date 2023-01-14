@@ -76,14 +76,35 @@ src='https://user-images.githubusercontent.com/64195458/205884250-c71b1a24-e040-
 
 <br>
 
-![Stats Overview dark](https://raw.githubusercontent.com/ulascan54/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ulascan54&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ulascan54&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ulascan54&show_icons=true" />
+</picture>
+
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulascan54&layout=compact" />
+
+
+<!--
+[![Stats Overview dark](https://raw.githubusercontent.com/ulascan54/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Stats Overview light](https://raw.githubusercontent.com/ulascan54/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![Most Used Languages dark](https://raw.githubusercontent.com/ulascan54/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![Most Used Languages light](https://raw.githubusercontent.com/ulascan54/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Most Used Languages light](https://raw.githubusercontent.com/ulascan54/github-stats/master/generated/languages.svg#gh-light-mode-only)](url)
+[![Ulaş Can Demirbağ's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ulascan54&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Ulaş Can Demirbağ's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ulascan54&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+-->
 
 [twitter]:https://twitter.com/ulascand54
 [linkedin]:https://www.linkedin.com/in/ulascandemirbag
 [hackerrank]:https://www.hackerrank.com/ulascandemirbag
+
+<div></div>
 
 <br>
 <hr>
