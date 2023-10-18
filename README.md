@@ -119,6 +119,5 @@ src='https://user-images.githubusercontent.com/64195458/205884250-c71b1a24-e040-
 <br>
 
 
-![snake gif](https://github.com/ulascan54/ulascan54/blob/output/github-contribution-grid-snake.gif)
 
 
