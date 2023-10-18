@@ -9,7 +9,7 @@ class Developer {
 }
 ```
 
-### `console.log(" Hiy there `:wave:`, I'm " + fullName)`
+### `console.log(" Hi there `:wave:`, I'm " + fullName)`
 
 
 
