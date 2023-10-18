@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="350" height="">
 
 ```js
-class Programmer {
+class Developer {
    constructor() {
      this.fullName = 'Ulaş Can Demirbağ';
      this.age = 23;
@@ -9,7 +9,7 @@ class Programmer {
 }
 ```
 
-### `console.log(" Hit there `:wave:`, I'm " + fullName)`
+### `console.log(" Hiy there `:wave:`, I'm " + fullName)`
 
 
 
@@ -117,5 +117,8 @@ src='https://user-images.githubusercontent.com/64195458/205884250-c71b1a24-e040-
   </a>
 </div>
 <br>
+
+
+![snake gif](https://github.com/ulascan54/ulascan54/blob/output/github-contribution-grid-snake.gif)
 
 
