@@ -15,7 +15,6 @@ class Developer {
 
 ## Computer Science Engineer | Javascirpt Lover
 
-<font color="aqua">Yeditepe University</font>
 <br>
 
 <hr>
@@ -27,8 +26,6 @@ class Developer {
   <li>ulascandemirbag@gmail.com</li>
 </ul>
 
-<br>
-<hr>
 
 
 
