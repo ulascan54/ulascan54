@@ -15,9 +15,6 @@ class Developer {
 
 ## Computer Science Engineer - Javascirpt Lover
 
-<br>
-<br>
-
 
 I'm currently building **[Fizifix](https://fizifix.com)** with my team - an **AI-powered physiotherapy platform** that personalizes recovery exercises, tracks user progress with **computer vision**, and enables real-time interaction between patients and physiotherapists.
 
@@ -38,24 +35,9 @@ I'm currently building **[Fizifix](https://fizifix.com)** with my team - an **AI
   - TEKNOFEST Innovation Award – *Propulsion System Development (Hyperloop)*  
   - 2nd Place – *Huawei Developer Competition Europe 2024*  
 
----
-
 ### Interests
 
 `Full-Stack Development` • `AI & Computer Vision` • `Healthcare Tech` • `IoT Systems` • `System Programming` • `Startup Growth`
-
-
----
-
-## Tech Stack  
-
-**Frontend:** NextJs, React, TypeScript, VanillaJs  
-**Backend:** Django REST, Go, Spring Boot  
-**AI & ML:** YOLOv8/YOLOv11, MediaPipe, TensorFlow  
-**DevOps:** Docker, Kubernetes  
-**Other:** C, C++, Verilog, Linux Kernel
-
----
 
 ### Connect
 
